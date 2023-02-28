@@ -1,6 +1,23 @@
 {
-  "type": "module",
+  "name": "vercel_express_static_basic_example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
   "dependencies": {
     "express": "^4.18.2"
-  }
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anderslatif/vercel_express_static_basic_example.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anderslatif/vercel_express_static_basic_example/issues"
+  },
+  "homepage": "https://github.com/anderslatif/vercel_express_static_basic_example#readme"
 }
